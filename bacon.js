@@ -14,7 +14,7 @@ fetch(apiUrl)
     .then((data) => {
         // Handle the JSON data
         console.log(data);
-        // Insert the first paragraph into an element with id 'bacon'
+        // Insert the first paragraph into an element with title 'bacon'
         document.querySelector("[title='bacon']").innerText = data[0];
     })
     .catch((error) => {
