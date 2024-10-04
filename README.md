@@ -14,7 +14,17 @@
     ```sh
     cd Emmets
     ```
+## Alternative Installation
 
+1. Include the CDN in your HTML file:
+   ```html
+   <script src="https://cdn.jsdelivr.net/npm/bacon-emmet@version/bacon.js"></script>
+   ```
+2. Add an HTML element with the title attribute set to 'bacon':
+    ```html
+    <p title="bacon"></p>
+    ```
+   
 ## Usage
 
 1. Include `bacon.js` in your HTML file:
@@ -23,7 +33,7 @@
     ```
 2. Add an HTML element with the title attribute set to 'bacon':
     ```html
-    <div title="bacon"></div>
+    <p title="bacon"></p>
     ```
 
 ## How It Works
