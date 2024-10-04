@@ -15,7 +15,9 @@ fetch(apiUrl)
         // Handle the JSON data
         console.log(data);
         // Insert the first paragraph into an element with title 'bacon'
-        document.querySelectorAll("[title='bacon']").innerText = data[0];
+        document.querySelectorAll("[title='bacon']").forEach((element) => {
+            element.innerText = data[0];
+        });
     })
     .catch((error) => {
         // Handle any errors
