@@ -1,7 +1,7 @@
 {
     "name": "bacon-emmet",
     "version": "1.0.3",
-    "description": "Provide a bacon Ipsum when placing the id bacon on a text element",
+    "description": "Provide a bacon Ipsum when placing the title bacon on a text element",
     "main": "bacon.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
