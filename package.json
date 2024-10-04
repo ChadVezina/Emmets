@@ -1,0 +1,22 @@
+{
+    "name": "bacon-emmet",
+    "version": "1.0.0",
+    "description": "Provide a bacon Ipsum when placing the id bacon on a text element",
+    "main": "bacon.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ChadVezina/Emmets.git"
+    },
+    "keywords": [
+        "Bacon-Emmet"
+    ],
+    "author": "Chad Vezina",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ChadVezina/Emmets/issues"
+    },
+    "homepage": "https://github.com/ChadVezina/Emmets#readme"
+}
