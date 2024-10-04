@@ -1,6 +1,6 @@
 {
     "name": "bacon-emmet",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Provide a bacon Ipsum when placing the id bacon on a text element",
     "main": "bacon.js",
     "scripts": {
