@@ -18,7 +18,7 @@
 
 1. Include the CDN in your HTML file:
    ```html
-   <script src="https://cdn.jsdelivr.net/npm/bacon-emmet@version/bacon.js"></script>
+   <script src="https://cdn.jsdelivr.net/npm/bacon-emmet@1.0.6/bacon.js"></script>
    ```
 2. Add an HTML element with the title attribute set to 'bacon':
     ```html
